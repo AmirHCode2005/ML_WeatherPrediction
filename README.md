@@ -1,14 +1,14 @@
-🌤️ **Weather Prediction Using Machine Learning**
+# 🌤️ Weather Prediction Using Machine Learning
 ---
 
-📘 **Overview**  
+## 📘 Overview  
 This project applies **Machine Learning techniques** to predict weather-related numeric targets.  
 The dataset is fully numeric, containing **10 quantitative weather features** — ideal for regression analysis.  
 It’s a **Regression problem** where the goal is to accurately predict continuous weather values.
 
 ---
 
-🧠 **Project Highlights**  
+## 🧠 Project Highlights
 **Type:** Regression  
 **Language:** Python 🐍  
 **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
@@ -16,7 +16,7 @@ It’s a **Regression problem** where the goal is to accurately predict continuo
 
 ---
 
-⚙️ **Workflow**  
+## ⚙️ Workflow
 - **Data Cleaning & Preprocessing** – handling inconsistencies and scaling features.  
 - **EDA (Exploratory Data Analysis)** – visualizing distributions, correlations, and feature importance.  
 - **Model Training** – linear models (Ridge, ElasticNet) and ensemble regressors (Gradient Boosting, AdaBoost, Voting Regressor).  
@@ -25,20 +25,20 @@ It’s a **Regression problem** where the goal is to accurately predict continuo
 
 ---
 
-🚧 **Challenges**  
+## 🚧 Challenges
 - Some features had outliers and high variance.  
 - Gradient Boosting required careful hyperparameter tuning to balance accuracy and generalization.
 
 ---
 
-📊 **Results**  
+## 📊 Results  
 ✅ **Best Model:** Gradient Boosting Regressor  
 🎯 **Test R² Score:** 0.40  
 📉 The model captures key patterns in weather data while maintaining stability on unseen test sets.
 
 ---
 
-💡 **Skills Used**  
+## 💡 Skills Used  
 🐍 Python  
 🤖 Machine Learning  
 📊 Data Science  
@@ -47,12 +47,12 @@ It’s a **Regression problem** where the goal is to accurately predict continuo
 
 ---
 
-📁 **Files Included**  
+## 📁 Files Included
 - `weather_analysis.ipynb` → Main analysis notebook  
 - `weather_dataset.csv` → Dataset  
 
 ---
 
-📬 **Contact**  
+## 📬 Contact  
 📧 amirhossin6825@gmail.com  
 💬 Telegram: @AmirHossin6825
