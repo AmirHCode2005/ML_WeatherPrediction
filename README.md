@@ -2,7 +2,7 @@
 
 ## 📘 Overview  
 This project applies **Machine Learning techniques** to predict weather-related numeric targets.  
-The dataset is fully numeric, containing **10 quantitative weather features** — ideal for regression analysis.  
+The dataset is fully numeric, containing **10 quantitative weather features** — ideal for regression analysis. 
 It’s a **Regression problem** where the goal is to accurately predict continuous weather values.
 
 ## 🧠 Project Highlights
