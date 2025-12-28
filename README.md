@@ -1,4 +1,4 @@
-# 🌤️ Weather Prediction Using Machine Learning 
+# 🌤️ Weather Prediction Using Machine Learning
 
 ## 📘 Overview  
 This project applies **Machine Learning techniques** to predict weather-related numeric targets.  
